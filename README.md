@@ -110,6 +110,22 @@ Defaults tuned for remote / global work: Gregorian dates, Latin digits, no photo
 
 **[ SYSTEM IDLE. CV COMPILED. ]**
 
+---
+
+<table align="center">
+<tr>
+<td>
+ 
+```
+[ FOLLOW THE WHITE RABBIT. ]
+```
+
+</td>
+</tr>
+</table>
+
+---
+
 MIT License, see [LICENSE](LICENSE) · Estedad font by Amin Abedi, SIL Open Font License 1.1 (see `assets/fonts/OFL.txt`)
 
 </div>
